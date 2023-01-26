@@ -1,0 +1,51 @@
+.block1{
+  width: 221px;
+}
+.block2{
+  width: 198px;
+}
+.block3{
+  width: 109px;
+}
+.footer-block{
+  max-width: 1200px ;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+.text-f{
+  margin-top: 24px;
+  font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 15px;
+color: #e8e9e9;
+}
+.titlef{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+}
+.karta{
+  margin-top: 30px;
+ 
+}
+.reting{
+  display: block;
+  margin-bottom: 5px;
+}
+.iconcha{
+  font-size: 25px;
+}
+.logotif{
+  font-size: 25px;
+  color: #fff;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-family: fantasy;
+}

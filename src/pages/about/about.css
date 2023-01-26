@@ -1,0 +1,43 @@
+.box {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+.navbar {
+  width: 270px;
+  background-color: transparent;
+  height: 100%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 20px;
+  margin-right: 30px;
+border-right: 3px solid rgba(0, 0, 0, 0.655);
+  scroll-behavior: auto;
+}
+
+.block {
+  display: flex;
+}
+.lorem2 {
+  width: 920px;
+}
+.catigoria a {
+  display: block;
+  color: rgb(111, 117, 125);
+  font-size: 25px;
+  font-weight: 500;
+  border-bottom: 2px transparent;
+  transition: all 0.6s ease;
+  margin-top: 5px;
+}
+.catigoria a:hover {
+  border-bottom: 2px solid #ffffff2e;
+}
+
+.titlesa {
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #ffffff2e;
+  border-radius: 5px;
+}
